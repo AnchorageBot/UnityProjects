@@ -2,7 +2,7 @@
 
 This github repository holds references for, and scripts resulting from, various Unity projects
 
-Tutorials
+Videos
 
 * [The Unity Tutorial For Complete Beginners - Game Makers Toolkit](https://www.youtube.com/watch?v=XtQMytORBmM)
 
