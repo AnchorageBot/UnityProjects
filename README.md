@@ -10,7 +10,6 @@ Tutorials
 
 - [Math for Game Devs (2020) - Freya Holmer](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
 
-
 IDEs
 
 - [Unity](https://unity.com)
