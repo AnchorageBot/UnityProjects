@@ -1,10 +1,6 @@
 # UnityProjects
 
-IDEs
-
-- [Unity](https://unity.com)
-
-- [Visual Studio Code](https://code.visualstudio.com)
+This github repository holds references for, and scripts resulting from, various Unity projects
 
 Tutorials
 
@@ -13,3 +9,9 @@ Tutorials
 - [Unity for Absolute Beginners - Dani Krossing](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwQZ9zPUC7TnJ-S0KxqGlrN)
 
 - [Math for Game Devs (2020) - Freya Holmer](https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
+
+IDEs
+
+- [Unity](https://unity.com)
+
+- [Visual Studio Code](https://code.visualstudio.com)
