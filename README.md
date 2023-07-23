@@ -1,6 +1,6 @@
 # UnityProjects
 
-This github repository holds references for, and scripts resulting from, various Unity projects
+This github repository holds references for, and scripts resulting from, various [Unity](https://unity.com) projects
 
 Videos
 
